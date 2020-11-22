@@ -3,7 +3,7 @@
     <div class="page--footer__container">
       Copyright © 2020 ❤️ 扎克斯体验技术部出品
       <a href="http://www.beian.miit.gov.cn" target="_blank"
-        >粤ICP备18089899号-3
+        >粤ICP备18089899号
       </a>
       <a
         href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011802000279"
